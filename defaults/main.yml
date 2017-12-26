@@ -1,0 +1,5 @@
+hardwareinfo:
+  hardwareinfo_hardware_info:
+    category: 'Hardware_info'
+    scores_way: 'compute_speed_score 3'
+    parser: 'hardware_info_parser'
